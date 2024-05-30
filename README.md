@@ -1,7 +1,6 @@
 ![logo](https://telegra.ph/file/26f266c4dae9930625cb6.jpg)
 
 ### Im Nikz
-## im Python Coder
 
 
 <!---
